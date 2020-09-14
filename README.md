@@ -1,5 +1,5 @@
-# EXoitc giveaways
-An closed giveaway boy
+# exoitc giveaways
+An closed giveaway bot
 ## Authors
 Created by EXOITC DEVELOPMET#3335 with help and guidance from WilsonCodes#6969
 ## Config Setup
