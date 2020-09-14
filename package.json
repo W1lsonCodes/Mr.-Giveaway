@@ -1,9 +1,12 @@
 {
   "dependencies": {
+    "discord": "^0.8.2",
     "discord.js": "github:hydrabolt/discord.js#faf27fabc055cb3850e823cf36c0af21c0139c35",
+    "fs": "0.0.1-security",
     "json-maker": "^1.2.4",
-    "klaw": "^2.0.0",
-    "moment": "^2.18.1",
+    "klaw": "^2.1.1",
+    "moment": "^2.28.0",
+    "path": "^0.12.7",
     "uws": "^9.14.0"
   }
 }
